@@ -22,10 +22,7 @@ body{
 
 
 .job {
-  border: 1px solid #70637c;
   background-color: #e6cfee;
   text-align: center;
-  margin: 50px;
-  padding: 50px;
-
+  margin: 10px;
 }
