@@ -11,8 +11,6 @@ html, body {
 body{
   font-family:Plantin, Freight Text, Lato, sans-serif;
   text-align:center;
-  margin:50px;
-  padding:100px;
   display:flex;
   flex-wrap: wrap;
 }
