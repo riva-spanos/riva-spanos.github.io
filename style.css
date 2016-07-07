@@ -35,6 +35,13 @@ h4 {
 	padding: 18px;
 }
 
+.section {
+	text-align:center;
+	display:flex
+	flex-wrap: wrap;
+	justify-content:center;
+}
+
 .header {
 	text-align:center;
 	display:inline;
