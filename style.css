@@ -14,8 +14,4 @@ body{
   border: 1px solid #70637c;
   background-color: #e6cfee;
   text-align: center;
-  padding: 15px;
-  margin:15px;
-  display: flex;
-  flex-wrap: wrap;
 }
