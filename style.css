@@ -17,6 +17,10 @@ row {
 	display:inline;
 }
 
+figure {
+	background-color:green;
+}
+
 .header {
 	text-align:center;
 	display:inline;
