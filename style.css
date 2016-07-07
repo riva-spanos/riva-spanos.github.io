@@ -19,8 +19,9 @@ row {
 }
 
 section {
-	background-color:green;
+	background-color:#c8f6cb;
 	border:2px solid black;
+	padding: 18px;
 }
 
 .header {
