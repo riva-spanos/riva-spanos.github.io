@@ -2,13 +2,15 @@
 body{
   font-family:Plantin, Freight Text, Lato, sans-serif;
   text-align:center;
-  margin:200px;
-  padding:100px;
+  margin:100px;
+  padding:50px;
 }
 
 
 
 .job {
-  border: 5px solid #FFF;
+  border: 1px solid #70637c;
   background-color: #e6cfee;
+  text-align: center;
+  padding: 30px;
 }
