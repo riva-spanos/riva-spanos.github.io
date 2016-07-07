@@ -27,3 +27,7 @@ body{
   margin:50px;
   border-radius:25px;
 }
+
+ul {
+  align:left;
+}
