@@ -4,13 +4,24 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	font-family:Garamond, serif;
+	font-family:Lato, serif;
+	background-color: #eff4f4;
 }
 
 h1 {
-  	font-size: 3rem;
-  	font-family: Garamond, serif;
-  	color: black;
+  	font-size: 4rem;
+}
+
+h2 {
+	font-side: 3rem;
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+h4 {
+	font-size:1.5rem;
 }
 
 box {
@@ -31,9 +42,7 @@ box {
 }
 
 .contact {
-  	font-size:.5rem;
-  	font-family: Garamond, serif;
-	color: black;
+  	font-size:.25rem;
 }
 
 .title {
