@@ -17,9 +17,10 @@ row {
 	display:inline;
 }
 
-p {
+.header {
 	text-align:center;
 	display:inline;
+	list-style:none;
 }
 
 .contact {
