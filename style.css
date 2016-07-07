@@ -8,7 +8,9 @@
 
 
 /* Professional Slider */
-
+li {
+  display:inline;
+}
 
 /* Education & Certifications Slider */
 
