@@ -17,6 +17,11 @@ row {
 	display:inline;
 }
 
+.row p {
+	text-align:center;
+	display:inline;
+}
+
 .contact {
   	font-size:.5rem;
   	font-family: Garamond, serif;
