@@ -16,9 +16,6 @@ h1 {
 row {
 	text-align:center;
 	display:inline;
-}
-
-figure {
 	background-color:green;
 	border:2px solid black;
 }
