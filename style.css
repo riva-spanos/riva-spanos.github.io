@@ -16,6 +16,9 @@ h1 {
 row {
 	text-align:center;
 	display:inline;
+}
+
+section {
 	background-color:green;
 	border:2px solid black;
 }
