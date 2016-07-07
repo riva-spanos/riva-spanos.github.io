@@ -1,4 +1,13 @@
 /* CSS Stylesheet */
+
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
 body{
   font-family:Plantin, Freight Text, Lato, sans-serif;
   text-align:center;
