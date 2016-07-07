@@ -16,6 +16,10 @@ h1 {
 row {
 	text-align:center;
 	display:inline;
+	margin-top: 20px;
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
 }
 
 section {
