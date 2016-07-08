@@ -21,15 +21,18 @@ body{
 
 h1 {
   font-size:4em;
+  font-weight:bold;
 }
 
 h2{
   font-size:3em;
+  font-weight:bold;
 }
 
 h3 {
   text-align:center;
   font-size:2em;
+  font-weight:bold;
 }
 
 h4 {
@@ -41,8 +44,13 @@ ul{
   font-size:1em;
 }
 
+.pageTitle {
+  background-color: #e6cfee;
+  border-radius:50%;
+}
+
 .jumbotron {
-  border-radius:25px;
+  border-radius:1%;
 }
 
 .job {
@@ -52,7 +60,7 @@ ul{
   float:center;
   margin:50px;
   padding:50;
-  border-radius:1%;
+  background-color: #e6cfee;
   display: inline-block;
   margin-right: 20px;
 }
