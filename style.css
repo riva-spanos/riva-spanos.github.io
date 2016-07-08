@@ -56,6 +56,7 @@ li {
   background-color: #e6cfee;
   text-align: left;
   justify-content:center;
+  flex-direction:column;
   float:center;
   margin:30px;
   padding:30px;
