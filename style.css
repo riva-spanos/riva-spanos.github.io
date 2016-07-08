@@ -48,6 +48,7 @@ ul{
 .job {
   background-color: #e6cfee;
   text-align: left;
+  justify-content:center;
   margin:50px;
   padding:50;
   border-radius:50%;
