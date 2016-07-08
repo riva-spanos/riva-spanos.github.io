@@ -44,18 +44,6 @@ ul{
   font-size:1em;
 }
 
-.page-title {
-  background-color: #e6cfee;
-  border-radius:50%;
-  height:25%;
-  width:25%;
-  text-align:center;
-  display:flex;
-  justify-content: center;
-  float: center;
-  padding:10px;
-}
-
 .jumbotron {
   border-radius:1%;
 }
