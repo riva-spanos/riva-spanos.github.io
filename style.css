@@ -39,4 +39,5 @@ h4 {
 .contact-info {
   text-align:left;
   float:right;
+  flex-wrap: wrap;
 }
