@@ -52,14 +52,9 @@ ul{
   float:center;
   margin:50px;
   padding:50;
-  border-radius:50%;
+  border-radius:20%;
   display: inline-block;
   margin-right: 20px;
-  width:42em;
-  height:42em;
-  
-
-
 }
 
 .contact-info {
