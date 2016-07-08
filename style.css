@@ -40,4 +40,6 @@ h4 {
   text-align:center;
   float:center;
   flex-wrap: wrap;
+  display:flex;
+  list-style-type: none;
 }
