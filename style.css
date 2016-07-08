@@ -37,5 +37,7 @@ h4 {
 }
 
 .contact-info {
-  text-align:right;
+  text-align:left;
+  display:flex;
+  float:right;
 }
