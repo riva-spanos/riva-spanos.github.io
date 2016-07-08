@@ -16,7 +16,7 @@ body{
   justify-content: center;
   float: center;
   margin: 50px;
-  padding: 50px;
+  padding: 25px;
 }
 
 h1 {
@@ -57,8 +57,8 @@ li {
   text-align: left;
   justify-content:center;
   float:center;
-  margin:50px;
-  padding:50;
+  margin:30px;
+  padding:30px;
   background-color: #e6cfee;
   display: inline-block;
   margin-right: 20px;
