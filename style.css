@@ -47,6 +47,8 @@ ul{
 .page-title {
   background-color: #e6cfee;
   border-radius:50%;
+  height:25%;
+  width:25%;
 }
 
 .jumbotron {
