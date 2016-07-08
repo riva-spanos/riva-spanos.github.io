@@ -49,6 +49,11 @@ ul{
   border-radius:50%;
   height:25%;
   width:25%;
+  text-align:center;
+  display:flex;
+  justify-content: center;
+  float: center;
+  padding:10px;
 }
 
 .jumbotron {
